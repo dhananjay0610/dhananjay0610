@@ -1,7 +1,31 @@
+<br />
+<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="290" alt="D"/>
 
-<h1 align="center">Hey 👋 there Dhananjay here.</h1>
+# Hello Coder 👋, I'm Dhananjay Waghade
+
+💪 Pronouns: **He**/**Him**
+
+ Judging people since **2000**
+ 
+💼  **Developer **
+
+🧑‍🎓 Bachelor of Computer Science
+
+🤹 Living with **Chai** & **Laptop**.
+
+<br />
+<br />
+
+  
+  
+
+<!--   <p>
+<h1 align="center">
+
+  👋 Hey there ..   Dhananjay here.</h1>
 <h3 align="center">I am a Developer</h3>
-
+</p> -->
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay0610&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay0610" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjay0610" alt="dhananjay0610" /></a> </p>

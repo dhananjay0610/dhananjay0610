@@ -4,8 +4,11 @@
 # Hello Coder 👋, I'm Dhananjay Waghade
 
 💪 Pronouns: **He**/**Him**
-
- Judging people since **2000**
+<!-- 
+ Judging people since **2000** -->
+ 
+ Coding since past **2** years and still Learning!
+ 
  
 💼  **Developer **
 

@@ -10,11 +10,11 @@
  Coding since past **2** years and still Learning!
  
  
-💼  **Developer **
+💼   **Developer**
 
 🧑‍🎓 Bachelor of Computer Science
 
-🤹 Living with **Chai** & **Laptop**.
+🤹 
 
 <br />
 <br />

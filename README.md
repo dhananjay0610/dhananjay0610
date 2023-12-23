@@ -7,8 +7,7 @@
 <!-- 
  Judging people since **2000** -->
  
- Coding since past **2** years and still Learning!
- 
+
  
 💼   **Developer**
 
